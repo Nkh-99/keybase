@@ -1,4 +1,3 @@
-# keybase
 ### Keybase proof
 
 I hereby claim:
